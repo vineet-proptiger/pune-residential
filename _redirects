@@ -1,0 +1,15 @@
+# ══════════════════════════════════════════════════════════════
+# CLOUDFLARE PAGES / NETLIFY REWRITES - PUNE RESIDENTIAL ROOT
+# ══════════════════════════════════════════════════════════════
+
+# Krisala 41 Joy Wakad Slugs
+/krisala-41-joy-wakad/new-launch           /krisala-41-joy-wakad/index.html               200
+/krisala-41-joy-wakad/new-launch/          /krisala-41-joy-wakad/index.html               200
+/krisala-41-joy-wakad/privacy-policy       /krisala-41-joy-wakad/privacy-policy.html      200
+/krisala-41-joy-wakad/privacy-policy/      /krisala-41-joy-wakad/privacy-policy.html      200
+/krisala-41-joy-wakad/terms-and-conditions /krisala-41-joy-wakad/terms-and-conditions.html 200
+/krisala-41-joy-wakad/terms-and-conditions/ /krisala-41-joy-wakad/terms-and-conditions.html 200
+/krisala-41-joy-wakad/faqs                 /krisala-41-joy-wakad/faqs.html                200
+/krisala-41-joy-wakad/faqs/                /krisala-41-joy-wakad/faqs.html                200
+/krisala-41-joy-wakad/sitemap              /krisala-41-joy-wakad/sitemap.html             200
+/krisala-41-joy-wakad/sitemap/             /krisala-41-joy-wakad/sitemap.html             200
