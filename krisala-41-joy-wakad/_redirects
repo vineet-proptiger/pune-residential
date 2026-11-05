@@ -1,12 +1,27 @@
 # ═══════════════════════════════════════════════════
-# CLOUDFLARE PAGES CLEAN URLS & SLUG REWRITES
+# CLOUDFLARE PAGES / NETLIFY REWRITES & CLEAN URLS
 # ═══════════════════════════════════════════════════
 
-# Slug: /new-launch rewrites to index.html with 200 OK (preserves UTM & tracking params)
+# Subfolder clean URLs (/krisala-41-joy-wakad/...)
+/krisala-41-joy-wakad/new-launch           /krisala-41-joy-wakad/index.html               200
+/krisala-41-joy-wakad/new-launch/          /krisala-41-joy-wakad/index.html               200
+
+/krisala-41-joy-wakad/privacy-policy       /krisala-41-joy-wakad/privacy-policy.html      200
+/krisala-41-joy-wakad/privacy-policy/      /krisala-41-joy-wakad/privacy-policy.html      200
+
+/krisala-41-joy-wakad/terms-and-conditions /krisala-41-joy-wakad/terms-and-conditions.html 200
+/krisala-41-joy-wakad/terms-and-conditions/ /krisala-41-joy-wakad/terms-and-conditions.html 200
+
+/krisala-41-joy-wakad/faqs                 /krisala-41-joy-wakad/faqs.html                200
+/krisala-41-joy-wakad/faqs/                /krisala-41-joy-wakad/faqs.html                200
+
+/krisala-41-joy-wakad/sitemap              /krisala-41-joy-wakad/sitemap.html             200
+/krisala-41-joy-wakad/sitemap/             /krisala-41-joy-wakad/sitemap.html             200
+
+# Standalone / Root rewrites
 /new-launch           /index.html               200
 /new-launch/          /index.html               200
 
-# Clean Slugs for subpages (without .html)
 /privacy-policy       /privacy-policy.html      200
 /privacy-policy/      /privacy-policy.html      200
 

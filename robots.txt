@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://puneresidentialprojects.co.in/sitemap.xml
+Sitemap: https://puneresidentialprojects.co.in/krisala-41-joy-wakad/sitemap.xml
